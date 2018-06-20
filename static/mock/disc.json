@@ -1,0 +1,67 @@
+{
+  "ret": true,
+  "data": {
+    "recomList": [{
+    		"id": "0001",
+    		"imgUrl": "/static/m_home/recomlist/recomlist1.webp",
+    		"txt": "现代诗与歌的浪漫邂逅",
+    		"authName": "浪逃",
+    		"authImg": "/static/m_disc/disc1.webp"
+    	},{
+    		"id": "0002",
+    		"imgUrl": "/static/m_home/recomlist/recomlist2.webp",
+    		"txt": "三字词牌集●红笺小字 说尽平生意",
+    		"authName": "鹿九月",
+    		"authImg": "/static/m_disc/disc2.webp"
+    	},{
+    		"id": "0003",
+    		"imgUrl": "/static/m_home/recomlist/recomlist3.webp",
+    		"txt": "那些曾经在Billboard上爆红的Hiphop—",
+    		"authName": "火属",
+    		"authImg": "/static/m_disc/disc3.webp"
+    	},{
+    		"id": "0004",
+    		"imgUrl": "/static/m_home/recomlist/recomlist4.webp",
+    		"txt": "耳朵喜欢你 好听到可以单曲循环",
+    		"authName": "鹿白川",
+    		"authImg": "/static/m_disc/disc4.webp"
+    	},{
+    		"id": "0005",
+    		"imgUrl": "/static/m_home/recomlist/recomlist5.webp",
+    		"txt": "『高考过后怎么嗨』答案就在这里",
+    		"authName": "云音乐曲库",
+    		"authImg": "/static/m_disc/disc5.webp"
+    	},{
+    		"id": "0006",
+    		"imgUrl": "/static/m_home/recomlist/recomlist6.webp",
+    		"txt": "同桌的你，曾是我期待上课的理由",
+    		"authName": "鹿白川",
+    		"authImg": "/static/m_disc/disc6.webp"
+    	}],
+    "songs": [{
+    	"name": "答案",
+    	"singer": "杨坤"
+    },{
+    	"name": "大千世界",
+    	"singer": "许嵩"
+    },{
+    	"name": "讲真的",
+    	"singer": "曾惜"
+    },{
+    	"name": "往后余生",
+    	"singer": "马良"
+    },{
+    	"name": "天地",
+    	"singer": "吴亦凡"
+    },{
+    	"name": "给陌生的你听",
+    	"singer": "张思源"
+    },{
+    	"name": "喜欢",
+    	"singer": "阿肆"
+    },{
+    	"name": "烟火里的尘埃",
+    	"singer": "华晨宇"
+    }]
+  }
+}

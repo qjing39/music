@@ -1,0 +1,71 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "/static/m_home/swiper/swiper_1.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "/static/m_home/swiper/swiper_2.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "/static/m_home/swiper/swiper_3.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "/static/m_home/swiper/swiper_4.jpg"
+      }],
+    "recomList": {
+    	"listOne":[{
+    		"id": "0001",
+    		"imgUrl": "/static/m_home/recomlist/recomlist1.webp",
+    		"txt": "华语速爆新歌"
+    	},{
+    		"id": "0002",
+    		"imgUrl": "/static/m_home/recomlist/recomlist2.webp",
+    		"txt": "静静听歌，不急不躁感受每一首歌的清凉"
+    	},{
+    		"id": "0003",
+    		"imgUrl": "/static/m_home/recomlist/recomlist3.webp",
+    		"txt": "『华语女声』糟糕！是心动的感觉"
+    	}],
+    	"listTwo":[{
+    		"id": "0004",
+    		"imgUrl": "/static/m_home/recomlist/recomlist4.webp",
+    		"txt": "华语速爆新歌"
+    	},{
+    		"id": "0005",
+    		"imgUrl": "/static/m_home/recomlist/recomlist5.webp",
+    		"txt": "静静听歌，不急不躁感受每一首歌的清凉"
+    	},{
+    		"id": "0006",
+    		"imgUrl": "/static/m_home/recomlist/recomlist6.webp",
+    		"txt": "『华语女声』糟糕！是心动的感觉"
+    	}]
+    },
+    "songs": [{
+    	"name": "答案",
+    	"singer": "杨坤"
+    },{
+    	"name": "大千世界",
+    	"singer": "许嵩"
+    },{
+    	"name": "讲真的",
+    	"singer": "曾惜"
+    },{
+    	"name": "往后余生",
+    	"singer": "马良"
+    },{
+    	"name": "天地",
+    	"singer": "吴亦凡"
+    },{
+    	"name": "给陌生的你听",
+    	"singer": "张思源"
+    },{
+    	"name": "喜欢",
+    	"singer": "阿肆"
+    },{
+    	"name": "烟火里的尘埃",
+    	"singer": "华晨宇"
+    }]
+  }
+}
